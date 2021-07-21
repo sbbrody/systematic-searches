@@ -1,7 +1,7 @@
-1        (((preterms or "pre terms" or premies or premie or preemie or preemies or premature or prematurity or preterm or "pre term" or "near term") and (infant* or newborn or "new born" or baby or babies or neonate* or neonatal)) or (low adj3 ("birth weight*" or birthweight* or "birth-weight*")) or Low-Birth-Weight or VLBW or LBW or ELBW or (SGA adj4 infant*) or "small for gestational age").ti,ab.        123706
-2        exp infant, premature/ or exp infant, low birth weight/        
-3        1 or 2        
-4        (kmc or kangaroo or skin-to-skin or "skin to skin").mp. [mp=title, abstract, original title, name of substance word, subject heading word, floating sub-heading word, keyword heading word, organism supplementary concept word, protocol supplementary concept word, rare disease supplementary concept word, unique identifier, synonyms]        8504
-5        Infant Care/mt or Kangaroo-Mother Care Method/        
-6        4 or 5        
-7        3 and 6        
+(((preterms or "pre terms" or premies or premie or preemie or preemies or premature or prematurity or preterm or "pre term" or "near term") and (infant* or newborn or "new born" or baby or babies or neonate* or neonatal)) or (low adj3 ("birth weight*" or birthweight* or "birth-weight*")) or Low-Birth-Weight or VLBW or LBW or LBWI or ELBW or (SGA adj4 infant*) or "small for gestational age").ti,ab.
+exp infant, premature/ or exp infant, low birth weight/        
+1 or 2        
+(kmc or kangaroo or skin-to-skin or "skin to skin" or "'kangaroo mother care'" or "'skin to skin'" or KCU).mp.
+Infant Care/mt or Kangaroo-Mother Care Method/        
+4 or 5        
+3 and 6        
