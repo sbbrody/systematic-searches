@@ -1,0 +1,1598 @@
+<1>
+Title
+  LiverNet: efficient and robust deep learning model for automatic diagnosis of sub-types of liver hepatocellular carcinoma cancer from H&E stained liver histopathology images.
+
+<2>
+Title
+  A risk analysis of COVID-19 infections in Kolkata Metropolitan City: A GIS based study.
+
+<3>
+Title
+  Shotgun metagenomic analysis of kombucha mutualistic community exposed to Mars-like environment outside the International Space Station.
+
+<4>
+Title
+  Can assessing the angle of progression before labor onset assist to predict vaginal birth after cesarean?: A prospective cohort observational study.
+
+<5>
+Title
+  In vitro digestion and absorption of BDE-28, -47, -99 and -153 in indoor dust and its implication in risk assessment.
+
+<6>
+Title
+  Diffusion of interacting particles in discrete geometries: Equilibrium and dynamical properties.
+
+<7>
+Title
+  A modeling approach for unveiling adsorption of toxic ions on iron oxide nanocrystals.
+
+<8>
+Title
+  Bacterial Cellulose Retains Robustness but Its Synthesis Declines After Exposure to a Mars-like Environment Simulated Outside the International Space Station.
+
+<9>
+Title
+  The role of oxygenated species in the catalytic self-coupling of MeOH on O pre-covered Au(111).
+
+<10>
+Title
+  The role of clustering algorithm-based big data processing in information economy development.
+
+<11>
+Title
+  Kinetic description of site ensembles on catalytic surfaces.
+
+<12>
+Title
+  Detection of QTNs for kernel moisture concentration and kernel dehydration rate before physiological maturity in maize using multi-locus GWAS.
+
+<13>
+Title
+  Multiscale modeling of structure formation of C60 on insulating CaF2 substrates.
+
+<14>
+Title
+  Toward alcohol synthesis from CO hydrogenation on Cu(111)-supported MoS2 - predictions from DFT+KMC.
+
+<15>
+Title
+  Reaction mechanism and kinetics for ammonia synthesis on the Fe(211) reconstructed surface.
+
+<16>
+Title
+  First-principles-based kinetic Monte Carlo simulations of CO oxidation on catalytic Au(110) and Ag(110) surfaces.
+
+<17>
+Title
+  Variable patterns of the cutaneous innervation of the dorsum of the foot and its clinical implication.
+
+<18>
+Title
+  Infrequent metadynamics study of rare-event electrostatic channeling.
+
+<19>
+Title
+  The time-resolved hard X-ray diffraction endstation KMC-3 XPP at BESSY II.
+
+<20>
+Title
+  Formation of Gold Nanoparticles in Water-in-Oil Microemulsions: Experiment, Mechanism, and Simulation.
+
+<21>
+Title
+  A multiscale modelling approach to elucidate the mechanism of the oxygen evolution reaction at the hematite-water interface.
+
+<22>
+Title
+  Prediction and Optimization of Ion Transport Characteristics in Nanoparticle-Based Electrolytes Using Convolutional Neural Networks.
+
+<23>
+Title
+  Numerical Study on the Dependency of Microstructure Morphologies of Pulsed Laser Deposited TiN Thin Films and the Strain Heterogeneities during Mechanical Testing.
+
+<24>
+Title
+  Impact of Organic Templates on the Selective Formation of Zeolite Oligomers.
+
+<25>
+Title
+  Modeling of Al and Ga Droplet Nucleation during Droplet Epitaxy or Droplet Etching.
+
+<26>
+Title
+  Multi-scale Simulation of Equilibrium Step Fluctuations on Cu(111) Surfaces.
+
+<27>
+Title
+  Graph analysis of proton conduction pathways in scandium-doped barium zirconate.
+
+<28>
+Title
+  Vacancy assisted diffusion on single-atom surface alloys.
+
+<29>
+Title
+  Combined DFT and kinetic Monte Carlo study of a bridging-spillover mechanism on fluorine-decorated graphene.
+
+<30>
+Title
+  An efficient kinetic Monte Carlo to study analyte capture by a nanopore: transients, boundary conditions and time-dependent fields.
+
+<31>
+Title
+  What's New in Critical Illness and Injury Science?: In situ simulation for airway management during COVID-19 in the emergency department, KMC, Manipal.
+
+<32>
+Title
+  Si-Doped Fe Catalyst for Ammonia Synthesis at Dramatically Decreased Pressures and Temperatures.
+
+<33>
+Title
+  Cation distribution in Cu2ZnSnSe4, Cu2FeSnS4 and Cu2ZnSiSe4 by multiple-edge anomalous diffraction.
+
+<34>
+Title
+  Atomic Layer Epitaxy of III-Nitrides: A Microscopic Model of Homoepitaxial Growth.
+
+<35>
+Title
+  Influence of Regioregularity on the Optoelectronic Properties of Conjugated Diketopyrrolopyrrole Polymers Comprising Asymmetric Monomers.
+
+<36>
+Title
+  Data sets and trained neural networks for Cu migration barriers.
+
+<37>
+Title
+  Comparison of Queueing Data-Structures for Kinetic Monte Carlo Simulations of Heterogeneous Catalysts.
+
+<38>
+Title
+  Accelerated kinetic Monte Carlo: A case study; vacancy and dumbbell interstitial diffusion traps in concentrated solid solution alloys.
+
+<39>
+Title
+  A Caching Scheme To Accelerate Kinetic Monte Carlo Simulations of Catalytic Reactions.
+
+<40>
+Title
+  Fitness of Outer Membrane Vesicles From Komagataeibacter intermedius Is Altered Under the Impact of Simulated Mars-like Stressors Outside the International Space Station.
+
+<41>
+Title
+  Rate coefficients and product branching ratios for (E)-2-butenal + H reactions.
+
+<42>
+Title
+  Multiscale Analysis of Phase Transformations in Self-Assembled Layers of 4,4'-Biphenyl Dicarboxylic Acid on the Ag(001) Surface.
+
+<43>
+Title
+  Acceleration scheme for particle transport in kinetic Monte Carlo methods.
+
+<44>
+Title
+  Efficient evaluation of Coulomb interactions in kinetic Monte Carlo simulations of charge transport.
+
+<45>
+Title
+  A fast species redistribution approach to accelerate the kinetic Monte Carlo simulation for heterogeneous catalysis.
+
+<46>
+Title
+  Kinetic Monte Carlo Modeling for the NO-CO Reaction Mechanism on Rh(100) and Rh(111).
+
+<47>
+Title
+  A DFT and KMC based study on the mechanism of the water gas shift reaction on the Pd(100) surface.
+
+<48>
+Title
+  Nucleation-Elongation Dynamics of Two-Dimensional Covalent Organic Frameworks.
+
+<49>
+Title
+  An all-atom kinetic Monte Carlo model for chemical vapor deposition growth of graphene on Cu(1 1 1) substrate.
+
+<50>
+Title
+  Rooming in, KMC and Exclusive Breastfeeding in COVID Era- A Pediatrician's Dilemma.
+
+<51>
+Title
+  A slip-spring framework to study relaxation dynamics of entangled wormlike micelles with kinetic Monte Carlo algorithm.
+
+<52>
+Title
+  NucleiSegNet: Robust deep learning architecture for the nuclei segmentation of liver cancer histopathology images.
+
+<53>
+Title
+  Not all newborns born to mothers with clinical chorioamnionitis need to be treated.
+
+<54>
+Title
+  Empirical study on the effects of acquisition parameters for FTIR hyperspectral imaging of brain tissue.
+
+<55>
+Title
+  Addressing Quality of Care in Pediatric Units using a Digital Tool: Implementation Experience from 18 SNCU of India.
+
+<56>
+Title
+  The interaction between TERT promoter mutation and MGMT promoter methylation on overall survival of glioma patients: a meta-analysis.
+
+<57>
+Title
+  Imiquimod-induced ROS production disrupts the balance of mitochondrial dynamics and increases mitophagy in skin cancer cells.
+
+<58>
+Title
+  Cadherin clusters stabilized by a combination of specific and nonspecific cis-interactions.
+
+<59>
+Title
+  Conformational rearrangements of G-quadruplex topology promoted by Cu(II) 12-MCCu(II)PyrAcHA-4 metallacrown.
+
+<60>
+Title
+  Climate change induced vulnerability and adaption for dengue incidence in Colombo and Kandy districts: the detailed investigation in Sri Lanka.
+
+<61>
+Title
+  Efficient and exact sampling of transition path ensembles on Markovian networks.
+
+<62>
+Title
+  Influence of the Sample Preparation Method in Discriminating Candida spp. Using ATR-FTIR Spectroscopy.
+
+<63>
+Title
+  Combined linkage mapping and association analysis reveals genetic control of maize kernel moisture content.
+
+<64>
+Title
+  Three Years Analysis Of Poisoning Cases Of Forensic Medicine Toxicological Laboratory, Khyber Medical College, Peshawar.
+
+<65>
+Title
+  Methodology for characterizing emissions from small (0.5-2 MTD) batch-fed gasification systems using multiple waste compositions.
+
+<66>
+Title
+  Computing long time scale biomolecular dynamics using quasi-stationary distribution kinetic Monte Carlo (QSD-KMC).
+
+<67>
+Title
+  Exploring the dark genome: implications for precision medicine. [Review]
+
+<68>
+Title
+  Sleep Apnea-Predictor of Functional Outcome in Acute Ischemic Stroke.
+
+<69>
+Title
+  Multimicrobial Kombucha Culture Tolerates Mars-Like Conditions Simulated on Low-Earth Orbit.
+
+<70>
+Title
+  BRAF Mutation is Associated with an Improved Survival in Glioma-a Systematic Review and Meta-analysis.
+
+<71>
+Title
+  Remarkable similarity of force induced dsRNA conformational changes to stretched dsDNA and their detection using electrical measurements.
+
+<72>
+Title
+  Source apportionment studies on particulate matter (PM10 and PM2.5) in ambient air of urban Mangalore, India.
+
+<73>
+Title
+  Interpretation of cytochrome P450 monooxygenase kinetics by modeling of thermodynamic activity.
+
+<74>
+Title
+  Artemisia capillaris inhibited enterovirus 71-induced cell injury by preventing viral internalization.
+
+<75>
+Title
+  Rapid Screening of Cadmium in Rice and Identification of Geographical Origins by Spectral Method.
+
+<76>
+Title
+  Genetic Alterations among Korean Melanoma Patients Showing Tumor Heterogeneity: A Comparison between Primary Tumors and Corresponding Metastatic Lesions.
+
+<77>
+Title
+  Effects of Bilateral Nasal Packing on Oxygen Saturation and Blood Pressure.
+
+<78>
+Title
+  Neurosurgery at Kasturba Medical College: Past, present and future. [Review]
+
+<79>
+Title
+  High Symmetry of Visual Acuity and Visual Fields in RPGR-Linked Retinitis Pigmentosa.
+
+<80>
+Title
+  Electroacupuncture to alleviate postoperative pain after a laparoscopic appendectomy: study protocol for a three-arm, randomised, controlled trial.
+
+<81>
+Title
+  An adaptive bias - hybrid MD/kMC algorithm for protein folding and aggregation.
+
+<82>
+Title
+  [The challenge of providing high standard medical services in a public hospital]. [Hebrew]
+
+<83>
+Title
+  Kombucha Multimicrobial Community under Simulated Spaceflight and Martian Conditions.
+
+<84>
+Title
+  KMC 3: counting and manipulating k-mer statistics.
+
+<85>
+Title
+  Arsenic in groundwater of the Kolkata Municipal Corporation (KMC), India: Critical review and modes of mitigation.
+
+<86>
+Title
+  Flos Farfarae Inhibits Enterovirus 71-Induced Cell Injury by Preventing Viral Replication and Structural Protein Expression.
+
+<87>
+Title
+  RECKONER: read error corrector based on KMC.
+
+<88>
+Title
+  A multi-scale method for modeling degradation of bioresorbable polyesters.
+
+<89>
+Title
+  Pharos: Collating protein information to shed light on the druggable genome.
+
+<90>
+Title
+  The First Space-Related Study of a Kombucha Multimicrobial Cellulose-Forming Community: Preparatory Laboratory Experiments.
+
+<91>
+Title
+  Effect of music care on depression and behavioral problems in elderly people with dementia in Taiwan: a quasi-experimental, longitudinal study.
+
+<92>
+Title
+  Comparative Study of Nasal Symptoms and Pulmonary Function Tests Post FESS in Ethmoidal Polyposis.
+
+<93>
+Title
+  Revealing the Grain Boundary Formation Mechanism and Kinetics during Polycrystalline MoS2 Growth.
+
+<94>
+Title
+  Modeling of nonequilibrium surface growth by a limited-mobility model with distributed diffusion length.
+
+<95>
+Title
+  Quantifying Pore Width Effects on Diffusivity via a Novel 3D Stochastic Approach with Input from Atomistic Molecular Dynamics Simulations.
+
+<96>
+Title
+  Multiscale modeling of damaged surface topology in a hypersonic boundary.
+
+<97>
+Title
+  Complex oscillatory decrease with size in diffusivity of {100}-epitaxially supported 3D fcc metal nanoclusters.
+
+<98>
+Title
+  Efficient Implementation of Cluster Expansion Models in Surface Kinetic Monte Carlo Simulations with Lateral Interactions: Subtraction Schemes, Supersites, and the Supercluster Contraction.
+
+<99>
+Title
+  Quality of life among HIV-tuberculosis co-infected patients.
+
+<100>
+Title
+  An examination of scaling behavior in unstable epitaxial mound growth via kinetic Monte Carlo simulations.
+
+<101>
+Title
+  A Practical Guide to Surface Kinetic Monte Carlo Simulations. [Review]
+
+<102>
+Title
+  Atomically Resolved Anisotropic Electrochemical Shaping of Nano-electrocatalyst.
+
+<103>
+Title
+  Transferable Kinetic Monte Carlo Models with Thousands of Reactions Learned from Molecular Dynamics Simulations.
+
+<104>
+Title
+  Morphology evolution of magnesium facets: DFT and KMC simulations.
+
+<105>
+Title
+  Tying Together Multiscale Calculations for Charge Transport in P3HT: Structural Descriptors, Morphology, and Tie-Chains.
+
+<106>
+Title
+  Slip Spring-Based Mesoscopic Simulations of Polymer Networks: Methodology and the Corresponding Computational Code.
+
+<107>
+Title
+  Kinetic Monte Carlo Simulation Based Detailed Understanding of the Transfer Processes in Semi-Batch Iodine Transfer Emulsion Polymerizations of Vinylidene Fluoride.
+
+<108>
+Title
+  Genome-wide association study of kernel moisture content at harvest stage in maize.
+
+<109>
+Title
+  Phase-field method for epitaxial kinetics on surfaces.
+
+<110>
+Title
+  Adlayer structure and lattice size effects on catalytic rates predicted from KMC simulations: NO oxidation on Pt(111).
+
+<111>
+Title
+  MonteCoffee: A programmable kinetic Monte Carlo framework.
+
+<112>
+Title
+  Exciton Diffusion in Organic Nanofibers: A Monte Carlo Study on the Effects of Temperature and Dimensionality.
+
+<113>
+Title
+  Multi-scale simulations of polymeric nanoparticle aggregation during rapid solvent exchange.
+
+<114>
+Title
+  Storage stability and solubilization ability of HPMC in curcumin amorphous solid dispersions formulated by Eudragit E100.
+
+<115>
+Title
+  Interaction between interstitial carbon atoms and a 1/2 1 1 1 self-interstitial atoms loop in an iron matrix: a combined DFT, off lattice KMC and MD study.
+
+<116>
+Title
+  Designing Metal-Free Frustrated Lewis Pairs Catalyst for the Efficient Dehydrogenation of Ammonia Borane.
+
+<117>
+Title
+  Data sets of migration barriers for atomistic Kinetic Monte Carlo simulations of Fe self-diffusion.
+
+<118>
+Title
+  SQERT-T: alleviating kinetic Monte Carlo (KMC)-stiffness in transient KMC simulations.
+
+<119>
+Title
+  Data sets of migration barriers for atomistic Kinetic Monte Carlo simulations of Cu self-diffusion via first nearest neighbour atomic jumps.
+
+<120>
+Title
+  Vertebral fracture assessment, trabecular bone score and handgrip in a group of postmenopausal women with vertebral fractures - preliminary study.
+
+<121>
+Title
+  Atomic Layer Epitaxy of Aluminum Nitride: Unraveling the Connection between Hydrogen Plasma and Carbon Contamination.
+
+<122>
+Title
+  Simulating the unimolecular decomposition pathways of cyclotrimethylnitramine (RDX) : Decomposition pathways of RDX.
+
+<123>
+Title
+  Influence of Multiple Conformations and Paths on Rate Constants and Product Branching Ratios. Thermal Decomposition of 1-Propanol Radicals.
+
+<124>
+Title
+  Role of Sink Density in Nonequilibrium Chemical Redistribution in Alloys.
+
+<125>
+Title
+  Atomistic Simulations of Graphene Growth: From Kinetics to Mechanism.
+
+<126>
+Title
+  Understanding the ionic conductivity maximum in doped ceria: trapping and blocking.
+
+<127>
+Title
+  Unveiling the Fundamental Role of Temperature in RRAM Switching Mechanism by Multiscale Simulations.
+
+<128>
+Title
+  Hydrocarbon decomposition kinetics on the Ir(111) surface.
+
+<129>
+Title
+  Kinetic Monte Carlo Study of Li Intercalation in LiFePO4.
+
+<130>
+Title
+  A Rejection Scheme for Off-Lattice Kinetic Monte Carlo Simulation.
+
+<131>
+Title
+  Self-learning kinetic Monte Carlo simulations of diffusion in ferromagnetic alpha-Fe-Si alloys.
+
+<132>
+Title
+  Process-Structure Linkages Using a Data Science Approach: Application to Simulated Additive Manufacturing Data.
+
+<133>
+Title
+  Acceleration and sensitivity analysis of lattice kinetic Monte Carlo simulations using parallel processing and rate constant rescaling.
+
+<134>
+Title
+  Nucleation and Growth of Covalent Organic Frameworks from Solution: The Example of COF-5.
+
+<135>
+Title
+  Assessment of mean-field microkinetic models for CO methanation on stepped metal surfaces using accelerated kinetic Monte Carlo.
+
+<136>
+Title
+  The diffusion of a Ga atom on GaAs(001)beta2(2 x 4): Local superbasin kinetic Monte Carlo.
+
+<137>
+Title
+  Learning reduced kinetic Monte Carlo models of complex chemistry from molecular dynamics.
+
+<138>
+Title
+  Energetic fluctuations in amorphous semiconducting polymers: Impact on charge-carrier mobility.
+
+<139>
+Title
+  A kinetic Monte Carlo approach to study fluid transport in pore networks.
+
+<140>
+Title
+  Pair Correlation Function of a 2D Molecular Gas Directly Visualized by Scanning Tunneling Microscopy.
+
+<141>
+Title
+  On the mobility of carriers at semi-coherent oxide heterointerfaces.
+
+<142>
+Title
+  A machine learning approach to graph-theoretical cluster expansions of the energy of adsorbate layers.
+
+<143>
+Title
+  Mesoscale Structures in the Adlayer of A-B2 Heterogeneous Catalysis.
+
+<144>
+Title
+  Beyond mean-field approximations for accurate and computationally efficient models of on-lattice chemical kinetics.
+
+<145>
+Title
+  A kinetic Monte Carlo simulation method of van der Waals epitaxy for atomistic nucleation-growth processes of transition metal dichalcogenides.
+
+<146>
+Title
+  Kinetic Monte Carlo Modeling of Charge Carriers in Organic Electronic Devices: Suppression of the Self-Interaction Error.
+
+<147>
+Title
+  A meta-analysis of prognostic roles of molecular markers in papillary thyroid carcinoma. [Review]
+
+<148>
+Title
+  Generalized Temporal Acceleration Scheme for Kinetic Monte Carlo Simulations of Surface Catalytic Processes by Scaling the Rates of Fast Reactions.
+
+<149>
+Title
+  Thermodynamics and simulation of hard-sphere fluid and solid: Kinetic Monte Carlo method versus standard Metropolis scheme.
+
+<150>
+Title
+  Anisotropic hydrogen diffusion in alpha-Zr and Zircaloy predicted by accelerated kinetic Monte Carlo simulations.
+
+<151>
+Title
+  Si-Doped Fe Catalyst for Ammonia Synthesis at Dramatically Decreased Pressures and Temperatures.
+
+<152>
+Title
+  Neonatal transport practices in Ibadan, Nigeria.
+
+<153>
+Title
+  Low prevalence of dihydro folate reductase (dhfr) and dihydropteroate synthase (dhps) quadruple and quintuple mutant alleles associated with SP resistance in Plasmodium vivax isolates of West Bengal, India.
+
+<154>
+Title
+  A GPU-accelerated Monte Carlo dose calculation platform and its application toward validating an MRI-guided radiation therapy beam model.
+
+<155>
+Title
+  Gender differences in the neural response to acupuncture: clinical implications.
+
+<156>
+Title
+  Coarse kMC-based replica exchange algorithms for the accelerated simulation of protein folding in explicit solvent.
+
+<157>
+Title
+  Gan-Lu-Siao-Du-yin, a prescription of traditional Chinese medicine, inhibited enterovirus 71 replication, translation, and virus-induced cell apoptosis.
+
+<158>
+Title
+  Promoter Methylation of PTEN Is a Significant Prognostic Factor in Melanoma Survival.
+
+<159>
+Title
+  Interaction of metallacrown complexes with G-quadruplex DNA.
+
+<160>
+Title
+  Recombinant vaccinia virus GLV-1h68 is a promising oncolytic vector in the treatment of cholangiocarcinoma.
+
+<161>
+Title
+  A Lattice-Boltzmann scheme for the simulation of diffusion in intracellular crowded systems.
+
+<162>
+Title
+  Structure and specificity of the RNA-guided endonuclease Cas9 during DNA interrogation, target binding and cleavage.
+
+<163>
+Title
+  Solubilization of herbicides by single and mixed commercial surfactants.
+
+<164>
+Title
+  Combined deterministic-stochastic framework for modeling the agglomeration of colloidal particles.
+
+<165>
+Title
+  On-the-Fly Kinetic Monte Carlo Simulation of Aqueous Phase Advanced Oxidation Processes.
+
+<166>
+Title
+  Three-dimensional patterns from the thin-film drying of amino acid solutions.
+
+<167>
+Title
+  A kMC-MD method with generalized move-sets for the simulation of folding of alpha-helical and beta-stranded peptides.
+
+<168>
+Title
+  Prevalence of Hepatitis A virus (HAV) and Hepatitis E virus (HEV) in the patients presenting with acute viral hepatitis.
+
+<169>
+Title
+  KMC 2: fast and resource-frugal k-mer counting.
+
+<170>
+Title
+  Surface EMG decomposition based on K-means clustering and convolution kernel compensation.
+
+<171>
+Title
+  Computer-based first-principles kinetic Monte Carlo simulation of polyethylene glycol degradation in aqueous phase UV/H2O2 advanced oxidation process.
+
+<172>
+Title
+  A comprehensive study on landfill site selection for Kolkata City, India.
+
+<173>
+Title
+  These are not the k-mers you are looking for: efficient online k-mer counting using a probabilistic data structure.
+
+<174>
+Title
+  Goal-oriented sensitivity analysis for lattice kinetic Monte Carlo simulations.
+
+<175>
+Title
+  A hybrid MD-kMC algorithm for folding proteins in explicit solvent.
+
+<176>
+Title
+  In-silico analysis on biofabricating vascular networks using kinetic Monte Carlo simulations.
+
+<177>
+Title
+  Kinetic Monte Carlo simulation of the initial phases of chlorophyll fluorescence from photosystem II.
+
+<178>
+Title
+  E6 and E7 of human papillomavirus type 18 and UVB irradiation corporately regulate interleukin-6 and interleukin-8 expressions in basal cell carcinoma.
+
+<179>
+Title
+  Transcriptome profile reveals heat response mechanism at molecular and metabolic levels in rice flag leaf.
+
+<180>
+Title
+  Building a kinetic Monte Carlo model with a chosen accuracy.
+
+<181>
+Title
+  Nucleation on a stepped surface with an Ehrlich-Schwobel barrier.
+
+<182>
+Title
+  Disk-based k-mer counting on a PC.
+
+<183>
+Title
+  A local superbasin kinetic Monte Carlo method.
+
+<184>
+Title
+  Inoculation of phosphate solubilizing bacteria for the improvement of lead accumulation by Brassica juncea.
+
+<185>
+Title
+  Towards EMIC rational design: setting the molecular simulation toolbox for enantiopure molecularly imprinted catalysts. [Review]
+
+<186>
+Title
+  Microscopic modeling of confined crystal growth and dissolution.
+
+<187>
+Title
+  Optimizing Binding Energies of Key Intermediates for CO2 Hydrogenation to Methanol over Oxide-Supported Copper.
+
+<188>
+Title
+  Theoretical Study of the Charge-Transfer State Separation within Marcus Theory: The C60-Anthracene Case Study.
+
+<189>
+Title
+  Fertility Desires and Intentions among People Living with HIV/AIDS (PLWHA) in Southern India.
+
+<190>
+Title
+  Cadaveric Study on Morphology of Dorsal Interossei of Hand and its Anatomical Variation.
+
+<191>
+Title
+  Utilizing Energy Transfer in Binary and Ternary Bulk Heterojunction Organic Solar Cells.
+
+<192>
+Title
+  Caregiver Burden among Adults Caring for People Living with HIV/AIDS (PLWHA) in Southern India.
+
+<193>
+Title
+  The prediction of hole mobility in organic semiconductors and its calibration based on the grain-boundary effect.
+
+<194>
+Title
+  A global reaction route mapping-based kinetic Monte Carlo algorithm.
+
+<195>
+Title
+  Long-term stability of Cu surface nanotips.
+
+<196>
+Title
+  On the gas phase fragmentation of protonated uracil: a statistical perspective.
+
+<197>
+Title
+  Level of Satisfaction Among People Living with HIV (PLHIV) Attending the HIV Clinic of Tertiary Care Center in Southern India.
+
+<198>
+Title
+  Modeling the atomistic growth behavior of gold nanoparticles in solution.
+
+<199>
+Title
+  Multiscale Simulation and Modeling of Multilayer Heteroepitactic Growth of C60 on Pentacene.
+
+<200>
+Title
+  Study of Adverse Effect Profile of Parenteral Zoledronic Acid in Female Patients with Osteoporosis.
+
+<201>
+Title
+  Density Functional and Kinetic Monte Carlo Study of Cu-Catalyzed Cross-Dehydrogenative Coupling Reaction of Thiazoles with THF.
+
+<202>
+Title
+  Where does methanol lose hydrogen to trigger steam reforming? A revisit of methanol dehydrogenation on the PdZn alloy model obtained from kinetic Monte Carlo simulations.
+
+<203>
+Title
+  Role of coating agent in iron oxide nanoparticle formation in an aqueous dispersion: Experiments and simulation.
+
+<204>
+Title
+  A Kinetic Monte Carlo Study of Fullerene Adsorption within a Pc-PBBA Covalent Organic Framework and Implications for Electron Transport.
+
+<205>
+Title
+  Prevalence and Spectrum of Gastro Esophageal Reflux Disease in Bronchial Asthma.
+
+<206>
+Title
+  Determination of the effective diffusivity of water in a poly (methyl methacrylate) membrane containing carbon nanotubes using kinetic Monte Carlo simulations.
+
+<207>
+Title
+  HIV Status Disclosure Among People Living with HIV in the Era of Combination Antiretroviral Therapy (cART).
+
+<208>
+Title
+  On the 2D-transition, hysteresis and thermodynamic equilibrium of Kr adsorption on a graphite surface.
+
+<209>
+Title
+  Directing Anisotropic Assembly of Metallic Nanoclusters by Exploiting Linear Trio Interactions and Quantum Size Effects: Au Chains on Ag(100) Thin Films.
+
+<210>
+Title
+  Origin of Multiple Peaks in the Potentiodynamic Oxidation of CO Adlayers on Pt and Ru-Modified Pt Electrodes.
+
+<211>
+Title
+  Kinetic Monte Carlo simulations of surface reactions on supported nanoparticles: A novel approach and computer code.
+
+<212>
+Title
+  A consistent hierarchy of generalized kinetic equation approximations to the master equation applied to surface catalysis.
+
+<213>
+Title
+  Metabarcoding of the kombucha microbial community grown in different microenvironments.
+
+<214>
+Title
+  Awareness and attitude regarding breastfeeding and immunization practices among primigravida attending a tertiary care hospital in southern India.
+
+<215>
+Title
+  Centrality measures highlight proton traps and access points to proton highways in kinetic Monte Carlo trajectories.
+
+<216>
+Title
+  The role of isomerization in the kinetics of self-assembly: p-terphenyl-m-dicarbonitrile on the Ag(111) surface.
+
+<217>
+Title
+  Atomistic study of dynamics for metallic filament growth in conductive-bridge random access memory.
+
+<218>
+Title
+  HCN elimination from vinyl cyanide: product energy partitioning, the role of hydrogen-deuterium exchange reactions and a new pathway.
+
+<219>
+Title
+  Kinetic modelling of heterogeneous catalytic systems.
+
+<220>
+Title
+  A Coupled Molecular Dynamics/Kinetic Monte Carlo Approach for Protonation Dynamics in Extended Systems.
+
+<221>
+Title
+  Relationship between Diffusion and Chemical Exchange in Mixtures of Carbon Dioxide and an Amine-Functionalized Ionic Liquid by High Field NMR and Kinetic Monte Carlo Simulations.
+
+<222>
+Title
+  Kinetic Monte Carlo simulations of one-dimensional and two-dimensional traffic flows: comparison of two look-ahead rules.
+
+<223>
+Title
+  Antimicrobial susceptibility pattern in diabetic foot ulcer: a pilot study.
+
+<224>
+Title
+  Theoretical study of the ammonia nitridation rate on an Fe (100) surface: a combined density functional theory and kinetic Monte Carlo study.
+
+<225>
+Title
+  Influence of the prefactor to defect motion in alpha-Iron during long time scale simulations.
+
+<226>
+Title
+  A More Accurate Kinetic Monte Carlo Approach to a Monodimensional Surface Reaction: The Interaction of Oxygen with the RuO2(110) Surface.
+
+<227>
+Title
+  Situation of Malaria in Kolkata Municipal Corporation area: A Secondary Data Analysis Report 2011.
+
+<228>
+Title
+  Real-time ab initio KMC simulation of the self-assembly and sintering of bimetallic epitaxial nanoclusters: Au + Ag on Ag(100).
+
+<229>
+Title
+  A divide-conquer-recombine algorithmic paradigm for large spatiotemporal quantum molecular dynamics simulations.
+
+<230>
+Title
+  From charge transport parameters to charge mobility in organic semiconductors through multiscale simulation.
+
+<231>
+Title
+  Synopsis of Diet in Dermatology: A one day CME conducted by the Department of Dermatology, Kasturba Medical College, Manipal, March 3, 2013.
+
+<232>
+Title
+  Parallel kinetic Monte Carlo simulation framework incorporating accurate models of adsorbate lateral interactions.
+
+<233>
+Title
+  A hybrid kinetic Monte Carlo method for simulating silicon films grown by plasma-enhanced chemical vapor deposition.
+
+<234>
+Title
+  Trapping of interstitial defects: filling the gap between the experimental measurements and DFT calculations.
+
+<235>
+Title
+  Numerical simulation of photocurrent generation in bilayer organic solar cells: Comparison of master equation and kinetic Monte Carlo approaches.
+
+<236>
+Title
+  The bacterial biofilms in dialysis water systems and the effect of the sub inhibitory concentrations of chlorine on them.
+
+<237>
+Title
+  Photochemical properties of some Cl-containing halogenated alkanes.
+
+<238>
+Title
+  Pyrolysis pathways of sulfonated polyethylene, an alternative carbon fiber precursor.
+
+<239>
+Title
+  Acanthosis Nigricansin PCOS Patients and Its Relation with Type 2 Diabetes Mellitus and Body Mass at a Tertiary Care Hospital in Southern India.
+
+<240>
+Title
+  Accuracy of a Markov state model generated by searching for basin escape pathways.
+
+<241>
+Title
+  Modelling the growth of ZnO thin films by PVD methods and the effects of post-annealing.
+
+<242>
+Title
+  Studies on extended spectrum beta lactamase (ESBL) producing salmonella isolates from clinical samples of Nepal.
+
+<243>
+Title
+  Expression profile in rice panicle: insights into heat response mechanism at reproductive stage.
+
+<244>
+Title
+  Kinetic Monte Carlo simulations for transient thermal fields: Computational methodology and application to the submicrosecond laser processes in implanted silicon.
+
+<245>
+Title
+  Kinetic Monte Carlo and cellular particle dynamics simulations of multicellular systems.
+
+<246>
+Title
+  Dewetting of solid films with substrate-mediated evaporation.
+
+<247>
+Title
+  Histological diversity in cholangiocellular carcinoma reflects the different cholangiocyte phenotypes.
+
+<248>
+Title
+  Arecoline decreases interleukin-6 production and induces apoptosis and cell cycle arrest in human basal cell carcinoma cells.
+
+<249>
+Title
+  'KMC-TDGL'-a coarse-grained methodology for simulating interfacial dynamics in complex fluids: application to protein-mediated membrane processes.
+
+<250>
+Title
+  Multiscale Modeling of the Atomic Layer Deposition of HfO2 Thin Film Grown on Silicon: How to Deal with a Kinetic Monte Carlo Procedure.
+
+<251>
+Title
+  A three-dimensional self-learning kinetic Monte Carlo model: application to Ag(111).
+
+<252>
+Title
+  Transition path sampling for discrete master equations with absorbing states.
+
+<253>
+Title
+  On solving the master equation in spatially periodic systems.
+
+<254>
+Title
+  Simulation of gas adsorption on a surface and in slit pores with grand canonical and canonical kinetic Monte Carlo methods.
+
+<255>
+Title
+  Effect of flash lamp annealing and laser spike annealing on random dopant fluctuation of 15-nm metal-oxide-semiconductor devices.
+
+<256>
+Title
+  Accreditation of human research protection program: An Indian perspective.
+
+<257>
+Title
+  Diffusion in confinement: kinetic simulations of self- and collective diffusion behavior of adsorbed gases.
+
+<258>
+Title
+  Shape transitions in strained Cu islands on Ni(100): kinetics versus energetics.
+
+<259>
+Title
+  Lattice mismatch induced nonlinear growth of graphene.
+
+<260>
+Title
+  Effect of nonlinearity in hybrid kinetic Monte Carlo-continuum models.
+
+<261>
+Title
+  "First-principles" kinetic Monte Carlo simulations revisited: CO oxidation over RuO2 (110).
+
+<262>
+Title
+  Application of kinetic Monte Carlo method to equilibrium systems: vapour-liquid equilibria.
+
+<263>
+Title
+  Association of depression with social support and self-esteem among HIV positives.
+
+<264>
+Title
+  Kambin's Triangle Approach of Lumbar Transforaminal Epidural Injection with Spinal Stenosis.
+
+<265>
+Title
+  Usefulness of posterolateral transforaminal approach in lumbar radicular pain.
+
+<266>
+Title
+  Paragangliomas of the Head & Neck: the KMC experience.
+
+<267>
+Title
+  Markov-chain model of classified atomistic transition states for discrete kinetic Monte Carlo simulations.
+
+<268>
+Title
+  Kinetic activation-relaxation technique.
+
+<269>
+Title
+  Kinetic Monte Carlo study on the suppression of boron transient enhanced diffusion with carbon pre-implant.
+
+<270>
+Title
+  An off-lattice, self-learning kinetic Monte Carlo method using local environments.
+
+<271>
+Title
+  Atomistic simulation of the formation of nanoporous silica films via molecular chemical vapor deposition on nonporous substrates.
+
+<272>
+Title
+  Interlayer diffusion of Au atoms in a heteroepitaxial system.
+
+<273>
+Title
+  CoAl(001) surface structures: a kinetic Monte Carlo simulation.
+
+<274>
+Title
+  Parallel kinetic Monte Carlo simulations of Ag(111) island coarsening using a large database.
+
+<275>
+Title
+  Off-lattice self-learning kinetic Monte Carlo: application to 2D cluster diffusion on the fcc(111) surface.
+
+<276>
+Title
+  A hybrid computational model for phagocyte transmigration.
+
+<277>
+Title
+  Benign lesions of larynx-A clinical study.
+
+<278>
+Title
+  Effects of tensile strain on Ag(111) epitaxial growth by kinetic Monte Carlo simulations.
+
+<279>
+Title
+  A graph-theoretical kinetic Monte Carlo framework for on-lattice chemical kinetics.
+
+<280>
+Title
+  Ordered Ag nanocluster structures by vapor deposition on pre-patterned SiO2.
+
+<281>
+Title
+  A fast algorithm for simulating flow-induced nucleation in polymers.
+
+<282>
+Title
+  Mechanism of the initial stage of silicate oligomerization.
+
+<283>
+Title
+  Modeling gas permeation through membranes by kinetic Monte Carlo: applications to H2, O2, and N2 in hydrated Nafion R.
+
+<284>
+Title
+  Layer-by-layer nucleation mechanism for quantum dot formation in strained heteroepitaxy.
+
+<285>
+Title
+  An energy basin finding algorithm for kinetic Monte Carlo acceleration.
+
+<286>
+Title
+  Kinetic Monte Carlo (kMC) simulation of carbon co-implant on pre-amorphization process.
+
+<287>
+Title
+  Methodological assessment of kinetic Monte Carlo simulations of organic photovoltaic devices: the treatment of electrostatic interactions.
+
+<288>
+Title
+  Ion beam sputtering nanopatterning of thin metal films: the synergism of kinetic self-organization and coarsening.
+
+<289>
+Title
+  Patch testing with dermatophagoides and its correlation with chronic eczema and atopic dermatitis.
+
+<290>
+Title
+  Theoretical characterization of the structural and hole transport dynamics in liquid-crystalline phthalocyanine stacks.
+
+<291>
+Title
+  In situ observation of graphene sublimation and multi-layer edge reconstructions.
+
+<292>
+Title
+  Nucleation and growth of atomic layer deposition of HfO2 gate dielectric layers on silicon oxide: a multiscale modelling investigation.
+
+<293>
+Title
+  An ab initio Rice-Ramsperger-Kassel-Marcus/master equation investigation of SiH(4) decomposition kinetics using a kinetic Monte Carlo approach.
+
+<294>
+Title
+  VisualTAPAS: an example of density functional theory assisted understanding and simulation of anisotropic etching (abstract only).
+
+<295>
+Title
+  Coarse-grained kinetic Monte Carlo models: Complex lattices, multicomponent systems, and homogenization at the stochastic level.
+
+<296>
+Title
+  Renormalization of stochastic lattice models: epitaxial surfaces.
+
+<297>
+Title
+  Kinetic Monte Carlo modeling of chemical reactions coupled with heat transfer.
+
+<298>
+Title
+  KMC-1: a high resolution and high flux soft x-ray beamline at BESSY.
+
+<299>
+Title
+  Parallel kinetic Monte Carlo simulations of two-dimensional island coarsening.
+
+<300>
+Title
+  Does phenomenological kinetics provide an adequate description of heterogeneous catalytic reactions?.
+
+<301>
+Title
+  Synchronous relaxation algorithm for parallel kinetic Monte Carlo simulations of thin film growth.
+
+<302>
+Title
+  Accurate modeling of sequential decay in clusters over long time scales: Insights from phase space theory.
+
+<303>
+Title
+  Achieving optimum hydrogen permeability in PdAg and PdAu alloys.
+
+<304>
+Title
+  Upper critical dimension for irreversible cluster nucleation and growth in the point-island regime.
+
+<305>
+Title
+  Generation of atomistic models of periodic mesoporous silica by kinetic Monte Carlo simulation of the synthesis of the material.
+
+<306>
+Title
+  Kinetic Monte Carlo study of submonolayer heteroepitaxial growth comparing Cu/Ni and Pt/Ni on Ni(100).
+
+<307>
+Title
+  Langevin equations for fluctuating surfaces.
+
+<308>
+Title
+  Kinetic Monte Carlo simulations of nucleation and growth in electrodeposition.
+
+<309>
+Title
+  The influence of defects on the morphology of Si (111) etched in NH4F.
+
+<310>
+Title
+  The role of molecular interactions and interfaces in diffusion: permeation through single-crystal and polycrystalline microporous membranes.
+
+<311>
+Title
+  The role of molecular interactions and interfaces in diffusion: transport diffusivity and evaluation of the Darken approximation.
+
+<312>
+Title
+  Spatially adaptive lattice coarse-grained Monte Carlo simulations for diffusion of interacting molecules.
+
+<313>
+Title
+  Cutaneous manifestations of non-Hodgkin's lymphoma.
+
+<314>
+Title
+  Clinico-epidermiological studies on tinea versicolor.
+
+<315>
+Title
+  Comparison of kinetic Monte Carlo and molecular dynamics simulations of diffusion in a model glass former.
+
+<316>
+Title
+  Kinetic Monte Carlo simulations with minimal searching.
+
+<317>
+Title
+  Fokker-Planck equation for lattice deposition models.
+
+<318>
+Title
+  Expression of angiogenic factors, basic fibroblast growth factor and vascular endothelial growth factor, in human biliary tract carcinoma cell lines.
+
+<319>
+Title
+  A study of ovarian cyst in a tertiary hospital of Kathmandu valley.
+
+<320>
+Title
+  Glionitrin B, a cancer invasion inhibitory diketopiperazine produced by microbial coculture.
+
+<321>
+Title
+  Palmar dermatoglyphics in children with acute lymphoblastic leukemia--a preliminary investigation.
+
+<322>
+Title
+  Municipal solid waste generation in Kathmandu, Nepal.
+
+<323>
+Title
+  A comparison of responses to alcohol expectancy questionnaire (CEOA) of Indian and Malaysian medical students.
+
+<324>
+Title
+  Successes rate of endoscopic dacryocystorhinostomy at KMC.
+
+<325>
+Title
+  Accurate acceleration of kinetic Monte Carlo simulations through the modification of rate constants.
+
+<326>
+Title
+  Analysis of parasitic diseases diagnosed by tissue biopsy specimens at KyungHee Medical Center (1984-2005) in Seoul, Korea.
+
+<327>
+Title
+  Association between vitamin B12 levels and mortality in hospitalized older adults.
+
+<328>
+Title
+  Relation of hypertension with body mass index and age in male and female population of Peshawar, Pakistan.
+
+<329>
+Title
+  Kink-formation kinetics and submonolayer density of magic two-dimensional islands in molecular beam epitaxy.
+
+<330>
+Title
+  Comparison of the effectiveness of music and progressive muscle relaxation for anxiety in COPD--A randomized controlled pilot study.
+
+<331>
+Title
+  Improving reproductive health knowledge in rural China--a web-based strategy.
+
+<332>
+Title
+  Kinetic Monte Carlo simulations of surface growth during plasma deposition of silicon thin films.
+
+<333>
+Title
+  Bronchial asthma and dental caries risk: results from a case control study.
+
+<334>
+Title
+  Glionitrin A, an antibiotic-antitumor metabolite derived from competitive interaction between abandoned mine microbes.
+
+<335>
+Title
+  Municipal solid waste management in Kolkata, India - a review. [Review] [34 refs]
+
+<336>
+Title
+  Stromal cell-derived factor-1alpha (SDF-1alpha/CXCL12)-enhanced angiogenesis of human basal cell carcinoma cells involves ERK1/2-NF-kappaB/interleukin-6 pathway.
+
+<337>
+Title
+  Solid waste management in Kolkata, India: practices and challenges.
+
+<338>
+Title
+  Use of stratified cluster sampling for efficient estimation of solid waste generation at household level.
+
+<339>
+Title
+  Transmissive x-ray beam position monitors with submicron position- and submillisecond time resolution.
+
+<340>
+Title
+  Safety and usefulness of emergency maternal transport using helicopter.
+
+<341>
+Title
+  Monte Carlo simulation of electrodeposition of copper: a multistep free energy calculation.
+
+<342>
+Title
+  Efficacy of He-Ne Laser in the prevention and treatment of radiotherapy-induced oral mucositis in oral cancer patients.
+
+<343>
+Title
+  Partitioning of polycyclic aromatic hydrocarbons to solid-sorbed nonionic surfactants.
+
+<344>
+Title
+  Atomistic simulation of boron diffusion with charged defects and diffusivity in strained Si/SiGe.
+
+<345>
+Title
+  Psychiatric inpatient care at a county hospital before and after the inception of a university-affiliated psychiatry residency program.
+
+<346>
+Title
+  Bupleurum kaoi inhibits Coxsackie B virus type 1 infection of CCFS-1 cells by induction of type I interferons expression.
+
+<347>
+Title
+  Mandibular reconstruction.
+
+<348>
+Title
+  Kalanchosine dimalate, an anti-inflammatory salt from Kalanchoe brasiliensis.
+
+<349>
+Title
+  Xiao chai hu tang inhibits CVB1 virus infection of CCFS-1 cells through the induction of Type I interferon expression.
+
+<350>
+Title
+  Entry knowledge and situational feedback of MBBS students.
+
+<351>
+Title
+  Permeation and gating in proteins: kinetic Monte Carlo reaction path following.
+
+<352>
+Title
+  Deceased-donor liver transplantation: 10 years' experience at Change Gung Memorial Hospital-Kaohsiung Medical Center.
+
+<353>
+Title
+  A novel solubilization of phenanthrene using Winsor I microemulsion-based sodium castor oil sulfate.
+
+<354>
+Title
+  An elective in KMC.
+
+<355>
+Title
+  Drug prescribing pattern and disease pattern in KMC Duwakot Health Center.
+
+<356>
+Title
+  MBBS student selection: search for proper criteria.
+
+<357>
+Title
+  Performance of ICT-TB test in the detection of pulmonary and extra-pulmonary tuberculosis.
+
+<358>
+Title
+  Modeling hexavalent chromium removal in a Bacillus sp. fixed-film bioreactor.
+
+<359>
+Title
+  Model for spreading of liquid monolayers.
+
+<360>
+Title
+  Solubilization of pyrene by anionic-nonionic mixed surfactants.
+
+<361>
+Title
+  Review of admission of MBBS students at KMC. [Review] [9 refs]
+
+<362>
+Title
+  Interactions of organic contaminants with mineral-adsorbed surfactants.
+
+<363>
+Title
+  Anti-Herpes simplex virus activity of Bidens pilosa and Houttuynia cordata.
+
+<364>
+Title
+  When and how to evaluate health information systems?.
+
+<365>
+Title
+  [Enhanced sorption of naphthalene into bentonites in water containing myristylpyridinium bromide and its mechanism]. [Chinese]
+
+<366>
+Title
+  Prevalence of goitre among school children in coastal Karnataka.
+
+<367>
+Title
+  Water solubility enhancements of pyrene by single and mixed surfactant solutions.
+
+<368>
+Title
+  Seroprevalence of HIV in Manipal.
+
+<369>
+Title
+  Modulation of programmed cell death by medicinal plants. [Review] [85 refs]
+
+<370>
+Title
+  Evaluation of the kinetic mechanism of Escherichia coli uridine diphosphate-N-acetylmuramate:L-alanine ligase.
+
+<371>
+Title
+  The expression of cytokines by an established basal cell carcinoma cell line (BCC-1/KMC) compared with cultured normal keratinocytes.
+
+<372>
+Title
+  Characterization of a new human transitional cell carcinoma cell line from the renal pelvis, RTCC-1/KMC.
+
+<373>
+Title
+  Dermatoses of the hand-an observation.
+
+<374>
+Title
+  Kinetic model for a step edge in epitaxial growth.
+
+<375>
+Title
+  Evaluation of Distribution Constants of Lanthanoid(III) Acetylacetonates between Sodium Dodecyl Sulfate Micelles and Water by Micellar Capillary Electrophoresis.
+
+<376>
+Title
+  Surfactant solubilization of hydrophobic compounds in soil and water : II. The role of dodecylsulphate-soil interactions for hexachlorobenzene.
+
+<377>
+Title
+  Surfactant solubilization of hydrophobic compounds in soil and water : I. Dodecylsulphate monomer and micellar partition coefficients for 28 polychlorinated biphenyls (PCBs) [41].
+
+<378>
+Title
+  Fractionation of plant protoplast types by iso-osmotic density gradient centrifugation.
+
+<379>
+Title
+  Urinary incontinence procedures performed at a military teaching hospital.
+
+<380>
+Title
+  Establishment of a human hepatic adenosquamous carcinoma cell line (KMC-2) and its response to cytokines.
+
+<381>
+Title
+  Expression of CD44 in human hepatocellular carcinoma cell lines.
+
+<382>
+Title
+  The herbal medicine sho-saiko-to inhibits proliferation of cancer cell lines by inducing apoptosis and arrest at the G0/G1 phase.
+
+<383>
+Title
+  [Application of a human immortalized fibroblast cell line in laboratory diagnosis of autoimmune diseases]. [Chinese]
+
+<384>
+Title
+  Establishment and characterization of a continuous human basal cell carcinoma cell line from facial skin (I) cytological behavior of early passages.
+
+<385>
+Title
+  A new role for IP3 receptors: Ca2+ release during nuclear vesicle fusion. [Review] [45 refs]
+
+<386>
+Title
+  Reaction kinetics of alpha-tocopheroxyl radical with biologically and pharmacologically active substances.
+
+<387>
+Title
+  A randomized trial of penicillin and streptomycin in the prevention of post-partum infection in Uganda.
+
+<388>
+Title
+  A new human cholangiocellular carcinoma cell line (KMC-1).
+
+<389>
+Title
+  Characterization of an immortalized human cell line derived from neonatal foreskin diploid fibroblasts.
+
+<390>
+Title
+  Spontaneous production of growth factors for human lymphocytes from a human papillomavirus type 18-contained foreskin fibroblast cell line.
+
+<391>
+Title
+  Quality assessment: from paper shuffle to paperless review.
+
+<392>
+Title
+  A comparative study of IgA nephropathy between two institutions in Japan and Korea.
+
+<393>
+Title
+  Effect of mitogenic and hormonal stimulation on zinc transport in mixed lymphocyte cultures.
+
+<394>
+Title
+  [Mobilization transfer of the pUB110 plasmid between gram-positive bacteria]. [Russian]
+
+<395>
+Title
+  [A study of the growth changes of the alveolar arch in Chinese infants]. [Chinese]
+
+<396>
+Title
+  Subcutaneous implantation of KMC tube for removal of recurrent intrahepatic stones without laparotomy.
+
+<397>
+Title
+  Modeling of middle molecules in clinical studies.
+
+<398>
+Title
+  [Biosynthesis of cellulolytic enzymes and xylanase during submerged cultivation of the fungus Aspergillus terreus 17P]. [Russian]
+
+<399>
+Title
+  Microwave spectroscopy above 60 KMc.
+
+
+
