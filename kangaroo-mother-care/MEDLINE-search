@@ -1,7 +1,14 @@
+("'kangaroo mother care'" or KCU).mp.
+(kangaroo adj2 care).mp.
+(kangaroo adj3 method).mp.
+Kangaroo-Mother Care Method/
+1 or 2 or 3 or 4
+Intensive Care Units, Neonatal/ or (icu, neonatal or icu, newborn or icus, neonatal or icus, newborn or intensive care units, neonatal or neonatal icu or neonatal icus or neonatal intensive care unit or neonatal intensive care units or newborn icu or newborn icus or newborn intensive care unit or newborn intensive care units or nicu).mp.
 (((preterms or "pre terms" or premies or premie or preemie or preemies or premature or prematurity or preterm or "pre term" or "near term") and (infant* or newborn or "new born" or baby or babies or neonate* or neonatal)) or (low adj3 ("birth weight*" or birthweight* or "birth-weight*")) or Low-Birth-Weight or VLBW or LBW or LBWI or ELBW or (SGA adj4 infant*) or "small for gestational age").ti,ab.
-exp infant, premature/ or exp infant, low birth weight/        
-1 or 2        
-(kmc or kangaroo or skin-to-skin or "skin to skin" or "'kangaroo mother care'" or "'skin to skin'" or KCU).mp.
-Infant Care/mt or Kangaroo-Mother Care Method/        
-4 or 5        
-3 and 6        
+exp infant, premature/ or exp infant, low birth weight/
+6 or 7 or 8
+(skin-to-skin or "skin to skin").mp.
+9 and 10
+5 or 11
+exp animals/ not humans.sh.
+12 not 13
