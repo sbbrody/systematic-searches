@@ -1,6 +1,6 @@
 TITLE-ABS-KEY("'kangaroo mother care'")
 TITLE-ABS-KEY(kangaroo W/2 care )
-TITLE-ABS-KEY(kangaroo W/3 method )
+TITLE-ABS-KEY({kangaroo} W/3 {method})
 TITLE-ABS-KEY(kangaroo W/3 position ) OR TITLE-ABS-KEY ( kangaroo  W/2  holding )
 KEY("Kangaroo-Mother Care Method")
 #1 OR #2 OR #3 OR #4 OR #5
