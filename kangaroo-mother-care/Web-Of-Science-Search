@@ -8,6 +8,6 @@ TS="Intensive Care Units, Neonatal" OR TS=("icu, neonatal" OR "icu, newborn" OR 
 (((TI=preterms OR AB=preterms) OR (TI="pre terms" OR AB="pre terms") OR (TI=premies OR AB=premies) OR (TI=premie OR AB=premie) OR (TI=preemie OR AB=preemie) OR (TI=preemies OR AB=preemies) OR (TI=premature OR AB=premature) OR (TI=prematurity OR AB=prematurity) OR (TI=preterm OR AB=preterm) OR (TI="pre term" OR AB="pre term") OR (TI="near term" OR AB="near term")) AND ((TI=infant* OR AB=infant*) OR (TI=newborn OR AB=newborn) OR (TI="new born" OR AB="new born") OR (TI=baby OR AB=baby) OR (TI=babies OR AB=babies) OR (TI=neonate* OR AB=neonate*) OR (TI=neonatal OR AB=neonatal))) OR (TI=(low NEAR/3 "birth weight*")) OR (AB=(low NEAR/3 "birth weight*")) OR (TI=birthweight* OR AB=birthweight*) OR (TI=birth-weight* OR AB=birth-weight*) OR (TI=Low-Birth-Weight OR AB=Low-Birth-Weight) OR (TI=VLBW OR AB=VLBW) OR (TI=LBW OR AB=LBW) OR (TI=LBWI OR AB=LBWI) OR (TI=ELBW OR AB=ELBW) OR (TI=(SGA NEAR/4 infant*)) OR (AB=(SGA NEAR/4 infant*)) OR (TI="small for gestational age" OR AB="small for gestational age")
 TS="infant, premature" OR TS="infant, low birth weight"
 #7 OR #8 OR #9
-(ALL=skin-to-skin OR ALL="skin to skin")
+(TS=skin-to-skin OR TS="skin to skin")
 #10 AND #11
 #6 OR #12
