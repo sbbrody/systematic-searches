@@ -1,7 +1,7 @@
 (ALL="'kangaroo mother care'" OR ALL=KCU)
-(ALL=kangaroo NEAR/2 ALL=care)
-(ALL=kangaroo NEAR/3 ALL=method)
-(ALL=kangaroo NEAR/3 ALL=position)
+(ALL=kangaroo NEAR/2 care)
+(ALL=kangaroo NEAR/3 method)
+(ALL=kangaroo NEAR/3 position)
 ALL="Kangaroo-Mother Care Method"
 #1 OR #2 OR #3 OR #4 OR #5
 TS="Intensive Care Units, Neonatal" OR TS=("icu, neonatal" OR "icu, newborn" OR "icus, neonatal" OR "icus, newborn" OR "intensive care units, neonatal" OR "neonatal icu" OR "neonatal icus" OR "neonatal intensive care unit" OR "neonatal intensive care units" OR "newborn icu" OR "newborn icus" OR "newborn intensive care unit" OR "newborn intensive care units" OR nicu OR sbcu OR sbcus OR "Special Care Baby Unit" OR "Special Care Baby Units")
