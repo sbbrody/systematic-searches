@@ -1,7 +1,7 @@
 (TS="'kangaroo mother care'")
-(TS=kangaroo NEAR/2 care)
-(TS=kangaroo NEAR/3 method)
-(TS=kangaroo NEAR/3 position)
+(TS=(kangaroo NEAR/2 care))
+(TS=(kangaroo NEAR/3 method))
+(TS=(kangaroo NEAR/3 position))
 TS="Kangaroo-Mother Care Method"
 #1 OR #2 OR #3 OR #4 OR #5
 TS="Intensive Care Units, Neonatal" OR TS=("icu, neonatal" OR "icu, newborn" OR "icus, neonatal" OR "icus, newborn" OR "intensive care units, neonatal" OR "neonatal icu" OR "neonatal icus" OR "neonatal intensive care unit" OR "neonatal intensive care units" OR "newborn icu" OR "newborn icus" OR "newborn intensive care unit" OR "newborn intensive care units" OR nicu OR sbcu OR sbcus OR "Special Care Baby Unit" OR "Special Care Baby Units")
