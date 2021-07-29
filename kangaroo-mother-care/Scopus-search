@@ -1,7 +1,7 @@
 TITLE-ABS-KEY("'kangaroo mother care'")
-TITLE-ABS-KEY(kangaroo W/2 care )
-TITLE-ABS-KEY({kangaroo} W/3 {method})
-TITLE-ABS-KEY({kangaroo} W/3 {position} ) OR TITLE-ABS-KEY ( {kangaroo}  W/2  {holding} )
+TITLE-ABS-KEY(kangaroo PRE/2 care )
+TITLE-ABS-KEY({kangaroo} PRE/3 {method}) OR  TITLE-ABS-KEY ( "method kangaroo" )
+TITLE-ABS-KEY({kangaroo} PRE/3 {position} ) OR TITLE-ABS-KEY ( {kangaroo}  PRE/2  {holding} )
 KEY("Kangaroo-Mother Care Method")
 #1 OR #2 OR #3 OR #4 OR #5
 KEY("Intensive Care Units, Neonatal") OR TITLE-ABS-KEY("icu, neonatal" OR "icu, newborn" OR "icus, neonatal" OR "icus, newborn" OR "intensive care units, neonatal" OR "neonatal icu" OR "neonatal icus" OR "neonatal intensive care unit" OR "neonatal intensive care units" OR "newborn icu" OR "newborn icus" OR "newborn intensive care unit" OR "newborn intensive care units" OR nicu OR sbcu OR sbcus OR "Special Care Baby Unit" OR "Special Care Baby Units" )
@@ -10,3 +10,6 @@ KEY("Intensive Care Units, Neonatal") OR TITLE-ABS-KEY("icu, neonatal" OR "icu, 
 TITLE-ABS-KEY(skin-to-skin OR "skin to skin" )
 #9 AND #10
 #6 OR #11
+ 
+( ( TITLE-ABS-KEY ( "'kangaroo mother care'" ) )  OR  ( TITLE-ABS-KEY ( kangaroo  PRE/2  care ) )  OR  ( TITLE-ABS-KEY ( {kangaroo}  PRE/3  {method} )  OR  TITLE-ABS-KEY ( "method kangaroo" ) )  OR  ( TITLE-ABS-KEY ( {kangaroo}  PRE/3  {position} )  OR  TITLE-ABS-KEY ( {kangaroo}  PRE/2  {holding} ) )  OR  ( KEY ( "Kangaroo-Mother Care Method" ) ) )  OR  ( ( ( KEY ( "Intensive Care Units, Neonatal" )  OR  TITLE-ABS-KEY ( "icu, neonatal"  OR  "icu, newborn"  OR  "icus, neonatal"  OR  "icus, newborn"  OR  "intensive care units, neonatal"  OR  "neonatal icu"  OR  "neonatal icus"  OR  "neonatal intensive care unit"  OR  "neonatal intensive care units"  OR  "newborn icu"  OR  "newborn icus"  OR  "newborn intensive care unit"  OR  "newborn intensive care units"  OR  nicu  OR  sbcu  OR  sbcus  OR  "Special Care Baby Unit"  OR  "Special Care Baby Units" ) )  OR  ( ( TITLE-ABS-KEY ( ( ( preterms  OR  "pre terms"  OR  premies  OR  premie  OR  preemie  OR  preemies  OR  premature  OR  prematurity  OR  preterm  OR  "pre term"  OR  "near term" )  AND  ( infant*  OR  newborn  OR  "new born"  OR  baby  OR  babies  OR  neonate*  OR  neonatal ) )  OR  ( low  W/3  ( "birth weight*"  OR  birthweight*  OR  "birth-weight*" ) )  OR  low-birth-weight  OR  vlbw  OR  lbw  OR  elbw  OR  ( sga  W/4  infant* )  OR  "small for gestational age" ) ) ) )  AND  ( TITLE-ABS-KEY ( skin-to-skin  OR  "skin to skin" ) ) ) 
+retrieves 2,018 results
