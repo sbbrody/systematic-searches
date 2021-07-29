@@ -1,4 +1,4 @@
-(ALL="'kangaroo mother care'" OR ALL=KCU)
+(ALL="'kangaroo mother care'")
 (ALL=kangaroo NEAR/2 care)
 (ALL=kangaroo NEAR/3 method)
 (ALL=kangaroo NEAR/3 position)
