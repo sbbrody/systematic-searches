@@ -5,7 +5,7 @@ TS="infant, premature" OR TS="infant, low birth weight"
 #2 OR #3 OR #4
 (TS=skin-to-skin OR TS="skin to skin")
 #6 AND #5
-#6 OR #12
+#1 OR #7
 
 2,080 results from Web of Science Core Collection, BIOSIS Citation Index, KCI-Korean Journal Database, MEDLINE® , Russian Science Citation Index, SciELO Citation Index:
 07/29/2021
