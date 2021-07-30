@@ -1,0 +1,12 @@
+ ("'kangaroo mother care'" OR KCU)
+(kangaroo N2 care)
+(kangaroo N3 method)
+(kangaroo N3 position)
+(MH "Kangaroo-Mother Care Method")
+S1 OR S2 OR S3 OR S4 OR S5     
+(MH "Intensive Care Units, Neonatal") OR ("icu, neonatal" OR "icu, newborn" OR "icus, neonatal" OR "icus, newborn" OR "intensive care units, neonatal" OR "neonatal icu" OR "neonatal icus" OR "neonatal intensive care unit" OR "neonatal intensive care units" OR "newborn icu" OR "newborn icus" OR "newborn intensive care unit" OR "newborn intensive care units" OR nicu OR sbcu OR sbcus OR "Special Care Baby Unit" OR "Special Care Baby Units")       
+TI(((preterms or "pre terms" or premies or premie or preemie or preemies or premature or prematurity or preterm or "pre term" or "near term") and (infant* or newborn or "new born" or baby or babies or neonate* or neonatal)) or (low N3 ("birth weight*" or birthweight* or "birth-weight*")) or Low-Birth-Weight or VLBW or LBW or ELBW or (SGA N4 infant*) or "small for gestational age") OR AB (((preterms or "pre terms" or premies or premie or preemie or preemies or premature or prematurity or preterm or "pre term" or "near term") and (infant* or newborn or "new born" or baby or babies or neonate* or neonatal)) or (low N3 ("birth weight*" or birthweight* or "birth-weight*")) or Low-Birth-Weight or VLBW or LBW or ELBW or (SGA N4 infant*) or "small for gestational age") OR (MH "Infant, Low Birth Weight+") OR (MH "Infant, Premature") 
+7 or 8
+(skin-to-skin OR "skin to skin")
+9 and 10
+6 or 11
