@@ -1,0 +1,7 @@
+polyglot - translate OVID MEDLINE search to CINAHL, WoS, Scopus - at least as a starting point
+cite as: Clark, J. M., Sanders, S., Carter, M., Honeyman, D., Cleo, G., Auld, Y., Booth, D., Condron, P., Dalais, C., Bateup, S., Linthwaite, B., May, N., Munn, J., Ramsay, L., Rickett, K., Rutter, C., Smith, A., Sondergeld, P., Wallin, M., Jones, M., … Beller, E. (2020). Improving the translation of search strategies using the Polyglot Search Translator: a randomized controlled trial. Journal of the Medical Library Association : JMLA, 108(2), 195–207. https://doi.org/10.5195/jmla.2020.834
+also referenced the searches created for the feeding LBW babies reviews 
+GitHub to store and iterate search strategies
+Box to backup search results files
+Zotero to transform WoS results into a format to be uploaded to Covidence
+Covidence to deduplicate results across databases
