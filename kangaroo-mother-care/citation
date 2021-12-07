@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this search, please cite it as below."
+authors:
+  - family-names: Brody
+    given-names: Stacy
+    orcid: https://orcid.org/0000-0002-2817-3849
+title: "Kangaroo Mother Care Search"
+version: 1.0
+date-released: 2021-08-05
