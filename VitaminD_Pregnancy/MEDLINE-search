@@ -1,1 +1,31 @@
-
+(Randomized Controlled Trial or Controlled Clinical Trial or Pragmatic Clinical Trial or Equivalence Trial or Clinical Trial, Phase III).pt.
+Randomized Controlled Trial/
+exp Randomized Controlled Trials as Topic/
+"Randomized Controlled Trial (topic)"/
+Controlled Clinical Trial/
+exp Controlled Clinical Trials as Topic/
+"Controlled Clinical Trial (topic)"/
+Randomization/
+Random Allocation/
+Double-Blind Method/
+Double Blind Procedure/
+Double-Blind Studies/
+Single-Blind Method/
+Single Blind Procedure/
+Single-Blind Studies/
+Placebos/
+Placebo/
+Control Groups/
+Control Group/
+(random* or sham or placebo*).ti,ab,hw,kf.
+((singl* or doubl*) adj (blind* or dumm* or mask*)).ti,ab,hw,kf.
+((tripl* or trebl*) adj (blind* or dumm* or mask*)).ti,ab,hw,kf.
+(control* adj3 (study or studies or trial* or group*)).ti,ab,kf.
+(Nonrandom* or non random* or non-random* or quasi-random* or quasirandom*).ti,ab,hw,kf.
+allocated.ti,ab,hw.
+((open label or open-label) adj5 (study or studies or trial*)).ti,ab,hw,kf.
+((equivalence or superiority or non-inferiority or noninferiority) adj3 (study or studies or trial*)).ti,ab,hw,kf.
+(pragmatic study or pragmatic studies).ti,ab,hw,kf.
+((pragmatic or practical) adj3 trial*).ti,ab,hw,kf.
+((quasiexperimental or quasi-experimental) adj3 (study or studies or trial*)).ti,ab,hw,kf.
+or/1-31
