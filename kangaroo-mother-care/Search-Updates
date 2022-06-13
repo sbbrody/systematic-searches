@@ -18,7 +18,7 @@ Of these, 125 were imported.
 A spot check of duplicates looks good.
 
 
-MEDLINE: Search June 13, 2022. Used same sttring. Retrieved 1,608 results (versus 1,444 in late July 2021). 
+MEDLINE: Search June 13, 2022. Used same string. Retrieved 1,608 results (versus 1,444 in late July 2021). 
 164 new references. 
 When I AND the list with  	
 (202107* or 202108* or 202109* or 202110* or 202111* or 202112* or 2022*).dt,ez,da. 
@@ -28,3 +28,10 @@ I imported 262 into Covidence. 166 duplicates were removed. 96 unique references
 
 I followed this up with a search for retractions, errata, etc. within the 262 from July 2021 to 2022*. 
 Using the search string in this directory, I found no retractions. 
+
+Scopus: Searched June 13, 2022. Used same string. Retrieved 2,284 results versus 2,019 in July 2021.
+265 new references. 
+Added
+AND  LOAD-DATE  >  20210729
+To retrieve 1,383 references, which may include those loaded into Scopus prior to July 29, 2021 but reprocessed after. 
+Exported 1,383 references. 
