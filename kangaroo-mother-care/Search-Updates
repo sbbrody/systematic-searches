@@ -19,5 +19,5 @@ Exported file. Imported 1,926 references into Covidence.
 MEDLINE: Search June 13, 2022. Used same sttring. Retrieved 1,608 results (versus 1,444 in late July 2021). 
 164 new references. 
 When I AND the list with  	
-(202107* or 202108* or 202109* or 202110* or 202111* or 202112*).mp. or 2022*.dt,ez,da.
-I retrieve only 110
+(202107* or 202108* or 202109* or 202110* or 202111* or 202112* or 2022*).dt,ez,da. 
+I retrieve only 262
