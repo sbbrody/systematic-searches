@@ -23,4 +23,8 @@ MEDLINE: Search June 13, 2022. Used same sttring. Retrieved 1,608 results (versu
 When I AND the list with  	
 (202107* or 202108* or 202109* or 202110* or 202111* or 202112* or 2022*).dt,ez,da. 
 I retrieve only 262
-Because of the export limits on Ovid MEDLINE, I will export the 262 limited by date. 
+Because of the limits on Ovid MEDLINE, I exported the 262 limited by date. 
+I imported 262 into Covidence. 166 duplicates were removed. 96 unique references were added. 
+
+I followed this up with a search for retractions, errata, etc. within the 262 from July 2021 to 2022*. 
+Using the search string in this directory, I found no retractions. 
