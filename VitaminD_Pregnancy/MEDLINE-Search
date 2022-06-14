@@ -1,1 +1,41 @@
+(Randomized Controlled Trial or Controlled Clinical Trial or Pragmatic Clinical Trial or Equivalence Trial or Clinical Trial, Phase III).pt.	
+Randomized Controlled Trial/	
+exp Randomized Controlled Trials as Topic/	
+"Randomized Controlled Trial (topic)"/	
+Controlled Clinical Trial/	
+exp Controlled Clinical Trials as Topic/	
+"Controlled Clinical Trial (topic)"/	
+Randomization/	
+Random Allocation/	
+Double-Blind Method/	
+Double Blind Procedure/	
+Double-Blind Studies/	
+Single-Blind Method/	
+Single Blind Procedure/	
+Single-Blind Studies/	
+Placebos/	
+Placebo/	
+Control Groups/	
+Control Group/	
+(random* or sham or placebo*).ti,ab,hw,kf.	
+((singl* or doubl*) adj (blind* or dumm* or mask*)).ti,ab,hw,kf.	
+((tripl* or trebl*) adj (blind* or dumm* or mask*)).ti,ab,hw,kf.	
+(control* adj3 (study or studies or trial* or group*)).ti,ab,kf.	
+(Nonrandom* or non random* or non-random* or quasi-random* or quasirandom*).ti,ab,hw,kf.	
+allocated.ti,ab,hw.	
+((open label or open-label) adj5 (study or studies or trial*)).ti,ab,hw,kf.	
+((equivalence or superiority or non-inferiority or noninferiority) adj3 (study or studies or trial*)).ti,ab,hw,kf.	
+(pragmatic study or pragmatic studies).ti,ab,hw,kf.	
+((pragmatic or practical) adj3 trial*).ti,ab,hw,kf.	
+((quasiexperimental or quasi-experimental) adj3 (study or studies or trial*)).ti,ab,hw,kf.	
+(phase adj3 (III or "3") adj3 (study or studies or trial*)).ti,hw,kf.	
+or/1-31	
+(maternal or gestation* or pregnan* or parous or primipar* or multipar* or primigravid* or multigravid* or gestation* or gravidit* or parturi* or puerper* or peri-ceonption* or periconception* or perinatal* or peri natal* or prenatal* or pre natal* or antenatal* or ante natal* or postnatal* or post natal* or peripartum or peri partum or prepartum or pre partum or antepartum or ante partum or intrapartum or intra partum or postpartum or post partum or (expectant* adj2 mother*) or mother-to-be or mothers-to-be or (child adj1 bear*) or childbear* or ((before or after or vaginal or abdominal) adj2 delivery) or caesarean* or cesarean* or c-section* or childbirth or (child* adj5 (birth or delivery))).mp.	
+Pregnant Women/ or Postpartum Period/ or Prenatal Care/ or Pregnancy/ or Gravidity/ or Parity/ or exp Parturition/ or Pregnancy in Adolescence/ or exp Pregnancy Outcome/ or Pregnancy, High-Risk/ or exp Pregnancy, Multiple/ or Peripartum Period/ or exp Pregnancy Trimesters/ or Pregnancy Complications/ or Pregnancy, Prolonged/ or Obstetric Labor Complications/ or Puerperal Disorders/ or exp Delivery, Obstetric/ or exp Labor, Obstetric/	
+33 or 34	
+("vitamin D" or cholecalciferol or ergocalciferol or calciferol or "vitamin D2" or "vitamin D3" or "hydroxyvitamin D" or vitamin-d or vitamin-d2 or vitamin-d3 or "25 hydroxyvitamin D" or "25 hydroxyvitamin D2" or "25 hydroxyvitamin D3" or "25-hydroxyvitamin D" or "25-hydroxy-vitamin D" or "25-hydroxy-vitamin D2" or "25-hydroxy-vitamin D3" or 25OHD or "25-OH-vitamin D" or 25-OHD or calcidiol or calcifediol).mp.	
+32 and 35 and 36	
+37 not (exp animals/ not humans.sh.)	
+(2017* or 2018* or 2019* or 202*).dt,ez,da.	
+38 and 39	
 
