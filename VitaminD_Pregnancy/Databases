@@ -1,1 +1,7 @@
+MEDLINE
+PubMed to capture anything not in MEDLINE (pubstatusaheadofprint OR publisher[sb] OR pubmednotmedline[sb])
+EuropePMC?
+Scopus (Roth used Embase)
+Cochrane (SR database and CENTRAL)
 
+Plus, Clinical Trials Registries
