@@ -35,3 +35,4 @@ Looking again at Roth et al.'s strategy I see another issue I am very concerned 
 This excludes articles with words like rate, rates, etc. in the text, e.g. 
 Diogenes ME, Bezerra FF, Rezende EP, Taveira MF, Pinhal I, Donangelo CM. Effect of calcium plus vitamin D supplementation during pregnancy in Brazilian adolescent mothers: a randomized, placebo-controlled trial. Am J Clin Nutr. 2013;98(1):82-91. doi:10.3945/ajcn.112.056275, 10.3945/ajcn.112.056275
 These are common enough words that to exclude them seems problematic. 
+The new search retrieves two publications related to clinical trials identified in the original Roth review (2018 O'Callaghan , American Journal of Clinical Nutrition, and 2021 Alhomaid, American Journal of Clinical Nutrition. )
