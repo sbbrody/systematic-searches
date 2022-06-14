@@ -1,1 +1,42 @@
-
+("Randomized Controlled Trial"[pt] OR "Controlled Clinical Trial"[pt] OR "Pragmatic Clinical Trial"[pt] OR "Equivalence Trial"[pt] OR "Clinical Trial, Phase III"[pt]) 
+"Randomized Controlled Trial"[Mesh:no exp]
+"Randomized Controlled Trials as Topic"[Mesh] 
+"Randomized Controlled Trial (topic)"[Mesh:no exp]
+"Controlled Clinical Trial"[Mesh:no exp]
+"Controlled Clinical Trials as Topic"[Mesh] 
+"Controlled Clinical Trial (topic)"[Mesh:no exp]
+Randomization[Mesh:no exp]
+"Random Allocation"[Mesh:no exp]
+"Double-Blind Method"[Mesh:no exp]
+"Double Blind Procedure"[Mesh:no exp]
+"Double-Blind Studies"[Mesh:no exp]
+"Single-Blind Method"[Mesh:no exp]
+"Single Blind Procedure"[Mesh:no exp]
+"Single-Blind Studies"[Mesh:no exp]
+Placebos[Mesh:no exp]
+Placebo[Mesh:no exp]
+"Control Groups"[Mesh:no exp]
+"Control Group"[Mesh:no exp]
+(random*[tiab] OR sham[tiab] OR placebo*[tiab]) ,hw,kf.
+((singl*[tiab] OR doubl*[tiab]) AND (blind*[tiab] OR dumm*[tiab] OR mask*[tiab])) ,hw,kf.
+((tripl*[tiab] OR trebl*[tiab]) AND (blind*[tiab] OR dumm*[tiab] OR mask*[tiab])) ,hw,kf.
+(control*[tiab] AND (study[tiab] OR studies[tiab] OR trial*[tiab] OR group*[tiab])) 
+(Nonrandom*[tiab] OR "non random*"[tiab] OR non-random*[tiab] OR quasi-random*[tiab] OR quasirandom*[tiab]) ,hw,kf.
+allocated,hw.[tiab]
+(("open label"[tiab] OR open-label[tiab]) AND (study[tiab] OR studies[tiab] OR trial*[tiab])) ,hw,kf.
+((equivalence[tiab] OR superiority[tiab] OR non-inferiority[tiab] OR noninferiority[tiab]) AND (study[tiab] OR studies[tiab] OR trial*[tiab])) ,hw,kf.
+("pragmatic study"[tiab] OR "pragmatic studies"[tiab]) ,hw,kf.
+((pragmatic[tiab] OR practical[tiab]) AND trial*[tiab]) ,hw,kf.
+((quasiexperimental[tiab] OR quasi-experimental[tiab]) AND (study[tiab] OR studies[tiab] OR trial*[tiab])) ,hw,kf.
+(phase[ti] AND (III[ti] OR 3[ti]) AND (study[ti] OR studies[ti] OR trial*[ti])) ,hw,kf.
+#1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13 OR #14 OR #15 OR #16 OR #17 OR #18 OR #19 OR #20 OR #21 OR #22 OR #23 OR #24 OR #25 OR #26 OR #27 OR #28 OR #29 OR #30 OR #31 
+(maternal[tw] OR gestation*[tw] OR pregnan*[tw] OR parous[tw] OR primipar*[tw] OR multipar*[tw] OR primigravid*[tw] OR multigravid*[tw] OR gestation*[tw] OR gravidit*[tw] OR parturi*[tw] OR puerper*[tw] OR peri-ceonption*[tw] OR periconception*[tw] OR perinatal*[tw] OR "peri natal*"[tw] OR prenatal*[tw] OR "pre natal*"[tw] OR antenatal*[tw] OR "ante natal*"[tw] OR postnatal*[tw] OR "post natal*"[tw] OR peripartum[tw] OR "peri partum"[tw] OR prepartum[tw] OR "pre partum"[tw] OR antepartum[tw] OR "ante partum"[tw] OR intrapartum[tw] OR "intra partum"[tw] OR postpartum[tw] OR "post partum"[tw] OR (expectant*[tw] AND mother*[tw]) OR mother-to-be[tw] OR mothers-to-be[tw] OR (child[tw] AND bear*[tw]) OR childbear*[tw] OR ((before[tw] OR after[tw] OR vaginal[tw] OR abdominal[tw]) AND delivery[tw]) OR caesarean*[tw] OR cesarean*[tw] OR c-section*[tw] OR childbirth[tw] OR (child*[tw] AND (birth[tw] OR delivery[tw]))) 
+"Pregnant Women"[Mesh:no exp] OR "Postpartum Period"[Mesh:no exp] OR "Prenatal Care"[Mesh:no exp] OR Pregnancy[Mesh:no exp] OR Gravidity[Mesh:no exp] OR Parity[Mesh:no exp] OR Parturition[Mesh] OR "Pregnancy in Adolescence"[Mesh:no exp] OR "Pregnancy Outcome"[Mesh] OR "Pregnancy, High-Risk"[Mesh:no exp] OR "Pregnancy, Multiple"[Mesh] OR "Peripartum Period"[Mesh:no exp] OR "Pregnancy Trimesters"[Mesh] OR "Pregnancy Complications"[Mesh:no exp] OR "Pregnancy, Prolonged"[Mesh:no exp] OR "Obstetric Labor Complications"[Mesh:no exp] OR "Puerperal Disorders"[Mesh:no exp] OR "Delivery, Obstetric"[Mesh] OR "Labor, Obstetric"[Mesh] 
+#33 OR #34 
+("vitamin D"[tw] OR cholecalciferol[tw] OR ergocalciferol[tw] OR calciferol[tw] OR "vitamin D2"[tw] OR "vitamin D3"[tw] OR "hydroxyvitamin D"[tw] OR vitamin-d[tw] OR vitamin-d2[tw] OR vitamin-d3[tw] OR "25 hydroxyvitamin D"[tw] OR "25 hydroxyvitamin D2"[tw] OR "25 hydroxyvitamin D3"[tw] OR "25-hydroxyvitamin D"[tw] OR "25-hydroxy-vitamin D"[tw] OR "25-hydroxy-vitamin D2"[tw] OR "25-hydroxy-vitamin D3"[tw] OR 25OHD[tw] OR "25-OH-vitamin D"[tw] OR 25-OHD[tw] OR calcidiol[tw] OR calcifediol[tw]) 
+#32 AND #35 AND #36 
+#37 NOT (animals[Mesh] NOT humans[Mesh:no exp]) 
+(2017* OR 2018* OR 2019* OR 202* ) .dt,ez,da.
+#38 AND #39
+(pubstatusaheadofprint OR publisher[sb] OR pubmednotmedline[sb])
+#40 AND #41
