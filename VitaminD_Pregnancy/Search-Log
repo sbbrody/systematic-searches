@@ -28,3 +28,10 @@ Let me look through the results of the post-2017 articles found using the modifi
 It looks like the "supplement" line (line 3) adds some noise...
 If we remove that line...
 So, comparing the articles we retrieve by including versus not including that line
+
+Tuesday, June 14, 2022
+Looking again at Roth et al.'s strategy I see another issue I am very concerned about
+(pig* or rat* or rodent* or mouse* or mice).tw.
+This excludes articles with words like rate, rates, etc. in the text, e.g. 
+Diogenes ME, Bezerra FF, Rezende EP, Taveira MF, Pinhal I, Donangelo CM. Effect of calcium plus vitamin D supplementation during pregnancy in Brazilian adolescent mothers: a randomized, placebo-controlled trial. Am J Clin Nutr. 2013;98(1):82-91. doi:10.3945/ajcn.112.056275, 10.3945/ajcn.112.056275
+These are common enough words that to exclude them seems problematic. 
