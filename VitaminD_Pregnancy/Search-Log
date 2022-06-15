@@ -40,3 +40,4 @@ The new search retrieves two publications related to clinical trials identified 
 Wednesday, June 15, 2022
 Translated MEDLINE search to PubMed and appended string to restrict to those that may be missed in MEDLINE
 Retrieves 165 results, including some not-yet-indexed animal studies. 
+May update search a bit to clean it up, but overall I think PubMed is good to go. 
