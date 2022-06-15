@@ -1,31 +1,24 @@
-DOCTYPE("Randomized Controlled Trial" OR "Controlled Clinical Trial" OR "Pragmatic Clinical Trial" OR "Equivalence Trial" OR "Clinical Trial, Phase III" ) 
-INDEXTERMS("Randomized Controlled Trial")
-INDEXTERMS("Randomized Controlled Trials as Topic") 
-INDEXTERMS("Randomized Controlled Trial (topic)")
-INDEXTERMS("Controlled Clinical Trial")
-INDEXTERMS("Controlled Clinical Trials as Topic") 
-INDEXTERMS("Controlled Clinical Trial (topic)")
-INDEXTERMS(Randomization)
-INDEXTERMS("Random Allocation")
-INDEXTERMS("Double-Blind Method")
-INDEXTERMS("Double Blind Procedure")
-INDEXTERMS("Double-Blind Studies")
-INDEXTERMS("Single-Blind Method")
-INDEXTERMS("Single Blind Procedure")
-INDEXTERMS("Single-Blind Studies")
-INDEXTERMS(Placebos)
-INDEXTERMS(Placebo)
-INDEXTERMS("Control Groups")
-INDEXTERMS("Control Group")
-TITLE-ABS(random* OR sham OR placebo* ) ,hw,kf.
-TITLE-ABS((singl* OR doubl* ) W/1 (blind* OR dumm* OR mask* )) ,hw,kf.
-TITLE-ABS((tripl* OR trebl* ) W/1 (blind* OR dumm* OR mask* )) ,hw,kf.
+TITLE-ABS-KEY("Randomized Controlled Trial" OR "Controlled Clinical Trial" OR "Pragmatic Clinical Trial" OR "Equivalence Trial" OR "Clinical Trial, Phase III" ) 
+KEY("Randomized Controlled Trial")
+KEY("Randomized Controlled Trials") 
+KEY("Controlled Clinical Trial")
+KEY("Controlled Clinical Trials") 
+KEY(Randomization)
+KEY("Random Allocation")
+KEY("Double-Blind")
+KEY("Single-Blind")
+KEY(Placebo*)
+KEY("Control Groups")
+KEY("Control Group")
+TITLE-ABS-KEY(random* OR sham OR placebo* ) 
+TITLE-ABS-KEY((singl* OR doubl* ) W/1 (blind* OR dumm* OR mask* )) 
+TITLE-ABS-KEY((tripl* OR trebl* ) W/1 (blind* OR dumm* OR mask* )) 
 TITLE-ABS-KEY(control* W/3 (study OR studies OR trial* OR group* )) 
-TITLE-ABS(Nonrandom* OR "non random*" OR non-random* OR quasi-random* OR quasirandom* ) ,hw,kf.
-TITLE-ABS(allocated,hw.)
-TITLE-ABS(("open label" OR open-label ) W/5 (study OR studies OR trial* )) ,hw,kf.
-TITLE-ABS((equivalence OR superiority OR non-inferiority OR noninferiority ) W/3 (study OR studies OR trial* )) ,hw,kf.
-TITLE-ABS("pragmatic study" OR "pragmatic studies" ) ,hw,kf.
+TITLE-ABS-KEY(Nonrandom* OR "non random*" OR non-random* OR quasi-random* OR quasirandom* ) 
+TITLE-ABS-KEY(allocated)
+TITLE-ABS-KEY(("open label" OR open-label ) W/5 (study OR studies OR trial* )) 
+TITLE-ABS-KEY((equivalence OR superiority OR non-inferiority OR noninferiority ) W/3 (study OR studies OR trial* )) 
+TITLE-ABS-KEY("pragmatic study" OR "pragmatic studies" ) 
 TITLE-ABS((pragmatic OR practical ) W/3 trial* ) ,hw,kf.
 TITLE-ABS((quasiexperimental OR quasi-experimental ) W/3 (study OR studies OR trial* )) ,hw,kf.
 TITLE(phase W/3 (III OR 3 ) W/3 (study OR studies OR trial* )) ,hw,kf.
