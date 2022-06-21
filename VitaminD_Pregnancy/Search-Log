@@ -42,3 +42,6 @@ Translated MEDLINE search to PubMed and appended string to restrict to those tha
 Retrieves 165 results, including some not-yet-indexed animal studies. 
 May update search a bit to clean it up, but overall I think PubMed is good to go. 
 Started updating the Scopus translation from the Polyglot translation but not yet complete
+
+Tuesday, June 21, 2022
+Working on Scopus search 
