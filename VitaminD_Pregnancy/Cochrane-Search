@@ -14,3 +14,5 @@ https://blocks.bmi-online.nl/catalog/358
 (vitamin D   OR  cholecalciferol  OR  ergocalciferol  OR  calciferol  OR   vitamin D2   OR   vitamin D3   OR   hydroxyvitamin D   OR  25 hydroxyvitamin D   OR   25 hydroxyvitamin D2   OR   25 hydroxyvitamin D3 OR  25ohd  OR   25 OH vitamin D   OR  calcidiol  OR  calcifediol OR hydroxycholecalciferol* OR colecalciferol*):ti,ab,kw
 
 colecalciferol retrieved one unique trial not retrieved without this term in the search - may need to check this in MEDLINE, Scopus
+
+may need to add a term for "supplement" to narrow? though I see there are probably a lot of overlapping records with PubMed.MEDLINE and CINAHL
