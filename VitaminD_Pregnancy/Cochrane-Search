@@ -6,3 +6,11 @@ maternal  OR  gestation*  OR  pregnan*  OR  parous  OR  primipar*  OR  multipar*
 https://training.cochrane.org/technical-supplement-chapter-4-searching-and-selecting-studies-v63#page=42
 This also differs from the Roth strategy
 CENTRAL is a pre-filtered database and should therefore warrant no additional filters
+
+also see:
+https://blocks.bmi-online.nl/catalog/358
+(vitamin d ):ti,ab,kw or (vitamin d2):ti,ab,kw or (vitamin d3):ti,ab,kw OR (dihydrotachysterol*):ti,ab,kw OR (hydroxyvitamin d3):ti,ab,kw OR (hydroxyvitamin d2):ti,ab,kw OR (ergocalciferol*):ti,ab,kw OR (hydroxycholecalciferol*):ti,ab,kw OR (cholecalciferol*):ti,ab,kw OR (colecalciferol*):ti,ab,kw
+
+(vitamin D   OR  cholecalciferol  OR  ergocalciferol  OR  calciferol  OR   vitamin D2   OR   vitamin D3   OR   hydroxyvitamin D   OR  25 hydroxyvitamin D   OR   25 hydroxyvitamin D2   OR   25 hydroxyvitamin D3 OR  25ohd  OR   25 OH vitamin D   OR  calcidiol  OR  calcifediol OR hydroxycholecalciferol* OR colecalciferol*):ti,ab,kw
+
+colecalciferol retrieved one unique trial not retrieved without this term in the search - may need to check this in MEDLINE, Scopus
