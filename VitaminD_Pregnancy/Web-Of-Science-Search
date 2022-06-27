@@ -3,3 +3,6 @@ TI=( maternal OR gestation* OR pregnan* OR parous OR primipar* OR multipar* OR p
 TS= ("vitamin D" OR cholecalciferol OR ergocalciferol OR calciferol OR "vitamin D2" OR "vitamin D3" OR "hydroxyvitamin D" OR vitamin-d OR vitamin-d2 OR vitamin-d3 OR "25 hydroxyvitamin D" OR "25 hydroxyvitamin D2" OR "25 hydroxyvitamin D3" OR "25-hydroxyvitamin D" OR "25-hydroxy-vitamin D" OR "25-hydroxy-vitamin D2" OR "25-hydroxy-vitamin D3" OR 25ohd OR "25-OH-vitamin D" OR 25-ohd OR calcidiol OR calcifediol)
 LD=(2017-08-31/2022-06-27)
 #4 AND #3 AND #2 AND #1
+
+Web of Science Core Collection, BIOSIS Citation Index, Current Contents Connect, KCI-Korean Journal Database, SciELO Citation Index:
+1,094 results on 6/27/22
