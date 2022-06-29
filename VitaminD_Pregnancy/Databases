@@ -1,6 +1,6 @@
 MEDLINE
 PubMed to capture anything not in MEDLINE (pubstatusaheadofprint OR publisher[sb] OR pubmednotmedline[sb])
-EuropePMC?
+EuropePMC - yes, will capture relevant preprints and other pub types not captured by other databases
 Scopus (Roth used Embase)
 Cochrane (SR database and CENTRAL)
 Web of Science
